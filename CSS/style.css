@@ -1,0 +1,30 @@
+body { 
+    background:#C8A2C8;
+    background-image: url("https://media.tenor.com/ZDe0dPKLr3AAAAAi/raining-money-money.gif");
+}
+
+h1 {
+    color: hotpink;
+    background:#ffee00;
+/*    text-align: right;*/
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+.important {
+    color: purple;
+    font-weight: bold;
+    font-size: 2em;
+    padding: 20px;
+}
+
+.numberlist {
+    width: 35%;
+    border: 30px solid lightgreen;
+    background: #FFFFFF;
+    font-style: oblique;
+    padding: 10px
+}
