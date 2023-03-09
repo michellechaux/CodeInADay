@@ -1,11 +1,11 @@
 body { 
     background: #C8A2C8;
-    background-image: url("https://media.tenor.com/ZDe0dPKLr3AAAAAi/raining-money-money.gif");
+/*    background-image: url("https://media.tenor.com/ZDe0dPKLr3AAAAAi/raining-money-money.gif");*/
 }
 
 h1 {
     color: hotpink;
-    background: #ffee00;
+    background:#ffee00;
 /*    text-align: right;*/
     text-align: center;
 }
